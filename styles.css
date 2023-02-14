@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+/* 
+Your CSS Code here.  */
+ body{
+	border : 1px solid black;
+	margin-right :720px;
+}
+table, th, td {
+  border: 1px solid black;
+}
